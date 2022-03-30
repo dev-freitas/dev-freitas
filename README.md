@@ -10,3 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>LoveMyFamily</h1>
+
+## My projects
+
+[Learning projects](./learning-projects.md)
+
+[Final projects](./final-projects.md)
